@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "Current directory:"
-ls -al
-echo "Parent of the working directory:"
-ls -al ..
-echo "/boot directory:"
-ls -al /boot
+ls -a .  .. /boot
